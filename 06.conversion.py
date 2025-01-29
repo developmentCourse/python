@@ -5,3 +5,6 @@ print( numero + 10 )
 
 str(22) #Transforma en un dato string
 float("22.13") #Transforma en un dato flotante
+#Transforma en un dato flotante
+#Transforma en un dato flotante
+#Transforma en un dato flotante
